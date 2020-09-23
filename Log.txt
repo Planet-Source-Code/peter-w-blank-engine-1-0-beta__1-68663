@@ -1,0 +1,16 @@
+BlankEngine(Build 0.01) Launched. 05-27-2007 22:03:43
+Error[-2005529767] BlankEngine{BE_MESH_LOAD_MODEL} : Automation error
+Error[53] BlankEngine{BE_BEMODEL_LOAD} : File not found
+### End of Log (05-27-2007 : 22:04:29) ###
+BlankEngine(Build 0.01) Launched. 05-27-2007 22:09:33
+Error[-2005529767] BlankEngine{BE_MESH_LOAD_MODEL} : Automation error
+Error[53] BlankEngine{BE_BEMODEL_LOAD} : File not found
+### End of Log (05-27-2007 : 22:11:04) ###
+BlankEngine(Build 0.01) Launched. 05-27-2007 22:11:24
+Error[-2005529767] BlankEngine{BE_MESH_LOAD_MODEL} : Automation error
+Error[53] BlankEngine{BE_BEMODEL_LOAD} : File not found
+### End of Log (05-27-2007 : 22:11:33) ###
+BlankEngine(Build 0.01) Launched. 05-27-2007 22:12:14
+Error[-2005529767] BlankEngine{BE_MESH_LOAD_MODEL} : Automation error
+Error[53] BlankEngine{BE_BEMODEL_LOAD} : File not found
+### End of Log (05-27-2007 : 22:12:37) ###
